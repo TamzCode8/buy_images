@@ -1,0 +1,16 @@
+body{
+    background-color: #D12052;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+.fifa{
+    border: 10px solid #F2910A;
+}
+.pisa{
+    border: 10px solid #A3CCDA;
+}
+.apple{
+    border: 10px solid #FF0052;
+}
